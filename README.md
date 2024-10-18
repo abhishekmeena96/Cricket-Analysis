@@ -1,4 +1,3 @@
-# Cricket-Analysis
 
 # Cricket Analysis Overview
 
